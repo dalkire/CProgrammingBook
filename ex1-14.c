@@ -18,7 +18,7 @@ int main() {
 			printf("%c:\t", i);
 
 			while (a[i]-- > 0) {
-				printf("+");
+				printf("=");
 			}
 			printf("\n");
 		}
