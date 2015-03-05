@@ -5,7 +5,7 @@
 
 #include <stdio.h>
 
-float convert_fahr_to_celsius(float);
+float convert_fahr_to_celsius(float fahr);
 
 int main() {
 	float fahr, celsius;
